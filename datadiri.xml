@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<biodata>
+    <dataDiri>
+        <nama>Citra Putri Herlina</nama>
+        <namaPanggilan>Citra</namaPanggilan>
+        <tempat>Tangerang</tempat>
+        <tanggallahir>10 Desember 2002</tanggallahir>
+        <alamat>
+            <Gang>Gang H.Wahab</Gang>
+            <RT>04</RT>
+            <RW>04</RW>
+            <Kecamatan>Cipondoh</Kecamatan>
+            <Kelurahan>Gondronng</Kelurahan>
+            <Kota>Kota Tangerang</Kota>
+        </alamat>
+        <email>citraaaaaaptr@gmail.com</email>
+        <notlp>08811005469</notlp>
+        <riwayatpendidikan>
+        <TK>TK Harapan Bangsa</TK>
+        <SD>MI Jamiatul Gulami</SD>
+        <SMP>SMP Nurul Hikmah</SMP>
+        <SMA>MAN 2 Kota Tangerang</SMA>
+        </riwayatpendidikan>
+    </dataDiri>
+    <dataOrtu>
+        <dataAyah>
+        <namaAyah>Mudalih</namaAyah>
+        <tempat>Tangerang</tempat>
+        <tanggallahir>15 Maret 1977</tanggallahir>
+        </dataAyah>
+        <dataIbu>
+        <namaIbu>Nina Herlina</namaIbu>
+        <tempat>Tangerang</tempat>
+        <tanggallahir>17 Mei 1984</tanggallahir>
+        </dataIbu>
+    </dataOrtu>
+</biodata>
+
+
+        
+
